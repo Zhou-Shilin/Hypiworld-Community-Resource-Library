@@ -5,7 +5,7 @@ tags:
     -   生存
     -   优化
 categories: 辅助
-cover: https://i2.mcmod.cn/class/cover/20230628/1687936690_2_pWUF.jpg
+cover: /files/mesa系列辅助工具/cover.png
 ---
 
 发布者：BlockHaity
