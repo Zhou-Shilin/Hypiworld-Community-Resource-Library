@@ -5,8 +5,7 @@ tags:
     -   生存
     -   优化
 categories: 辅助
-cover: 
-    -   https://i2.mcmod.cn/class/cover/20230628/1687936690_2_pWUF.jpg@480x300.jpg
+cover: https://i2.mcmod.cn/class/cover/20230628/1687936690_2_pWUF.jpg@480x300.jpg
 ---
 
 发布者：BlockHaity
