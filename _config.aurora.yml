@@ -204,10 +204,10 @@ injects:
 footer_links:
   - title: # main title
     links:
-      - title: Hypiworld# link title
-        url: https://baimoqilin.top/hypiworld/# URL link
-      - title: # link title
-        url: # URL link
+      - title: Hypiworld
+        url: https://baimoqilin.top/hypiworld/
+      - title: Baimoqilin's Blog
+        url: https://blog.baimoqilin.top/
       - title: Friends # link of friends mode / 友链模式
         mode: 'links'
 
